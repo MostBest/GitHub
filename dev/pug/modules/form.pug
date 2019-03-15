@@ -1,0 +1,16 @@
+form(id="form" class="form")
+	.form__fieldset
+		.form__row
+			input(id="login" class="form__input" name="login" type="text")
+			label(for="login" class="input-title") Логин
+
+		.form__row
+			input(id="password" class="form__input" name="password" type="password")
+			label(for="password" class="input-title") Пароль
+
+		.form__row.form__row-message
+			span.form__message Указан не корректный логин или пароль
+
+		.form__row.form__row-double
+			button(id="submit-modal-1" class="form__button btn" type="submit") Войти
+			a(href="" class="remove-password") Забыли пароль?
