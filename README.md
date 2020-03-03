@@ -1,6 +1,9 @@
-# GitHub
-Запуск уже существующего проекта
-Заходим в папку с проектом: git init
-Reinitialized existing Git repository in Path/to/project - уже есть гит репозиторий
-git add . добавить все файлы
-git remote add origin https://github.com/MostBest/c0002fr.git - определяем репозиторий
+# GitHub - быстрый старт
+Краткое руководство по внедрению Git. Автор: Чернов Алексей
+
+# Используемые технологии
+_Для работы требуется установка [ATOM](https://atom.io/), [Git](https://git-scm.com/)_
+
+# Установка командной строки в ATOM
+**File -> Settings -> Install**, в поле формы поиска вводим название плагина **platformio-ide-terminal** и устанавливаем его.
+
