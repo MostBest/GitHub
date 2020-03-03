@@ -5,5 +5,5 @@
 _Для работы требуется установка [ATOM](https://atom.io/), [Git](https://git-scm.com/)_
 
 # Установка командной строки в ATOM
-**File -> Settings -> Install**, в поле формы поиска вводим название плагина **platformio-ide-terminal** и устанавливаем его.
+_**File -> Settings -> Install**_, в поле формы поиска вводим название плагина _**platformio-ide-terminal**_ и устанавливаем его.
 
