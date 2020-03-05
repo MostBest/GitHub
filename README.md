@@ -52,5 +52,5 @@ _**File -> Settings -> Install**_, в поиковое поле вводим н�
 1. **git  checkout master** — переход на основную ветку.
 
 # GitHub
-**git remote add origin https://github.com/user.name/project.name.git** — подключение к удаленому репозиторию.
-**git push -u origin master** — добавление ветки **master** в репозиторий.
+- **git remote add origin https://github.com/user.name/project.name.git** — подключение к удаленому репозиторию.
+- **git push -u origin master** — добавление ветки **master** в репозиторий.
