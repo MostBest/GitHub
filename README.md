@@ -5,7 +5,8 @@
 _Для работы требуется установка [ATOM](https://atom.io/), [Git](https://git-scm.com/)_
 
 ## Установка командной строки в ATOM
-- _**File -> Settings -> Install**_, в поиковое поле вводим название плагина _**platformio-ide-terminal**_ и устанавливаем его.
+- **File -> Settings -> Install**, в поиковое поле вводим название плагина _**platformio-ide-terminal**_ и устанавливаем его.
+- **amp install language-pug** — добавление синтексиса **pug**.
 
 ## Инициализация Git
 - **git init** — выполняется в папке проекта.
