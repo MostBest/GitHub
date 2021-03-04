@@ -53,7 +53,7 @@ _Для работы требуется установка [ATOM](https://atom.i
 - **git  checkout master** — переход на основную ветку.
 
 # GitHub
-- **git remote add origin https://github.com/user.name/project.name.git** — подключение к удаленому репозиторию.
+- **git remote add origin https://github.com/user.name/project.name.git** — подключение к удаленому репозиторию, загружаем изменения из локальных файлов на  я GitHub.
 - **git push -u origin master** — добавление ветки **master** в репозиторий.
 - **git clone https://github.com/user.name/project.name.git** — скачивание проекта в локальный репозиторий. 
 ### _!ВАЖНО В склонированной папке не нужно прописовать команду git init, она применена по умолчанию._ 
