@@ -47,7 +47,8 @@ _Для работы требуется установка [ATOM](https://atom.i
 - **git checkout master** — **отменить**, вернутся к просмотру основной ветки проекта. **master** — основная ветка.
 - **git checkout -d branch.name** — создание с последующим переходом на созданую ветку.
 - **git branch -D branch.name** — удаление ветки.
-- **git marge new.branch.name** — объединение ветки new.branch.name с веткой в которой мы сейчас находимся. 
+- **git mеrge new.branch.name** — объединение ветки new.branch.name с веткой в которой мы сейчас находимся. 
+- **git branch -M new.branch.name** — переменует текущую ветку в new.branch.name. 
 
 ## Ветки — слияние
 - **git  checkout master** — переход на основную ветку.
